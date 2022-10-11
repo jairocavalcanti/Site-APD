@@ -43,28 +43,18 @@ header {
   position: fixed;
   top: 0;
   z-index: 999;
-  background-color: #ffffff;
+  background-color: #95ebb6;
   
   max-width: 1120px;
   width: 100%;
 }
-
-.card{
-  border: 8px solid lightblue;
-  background-color: yellow;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-  margin: 100px;
-  margin-top: 10px;
-  padding: 10px;
-  }
 
   .nav-list {
   display: flex;
   gap: 30px;
 }
 
-a {
+a{
   cursor: pointer;
   text-decoration: none;
   color: black;
